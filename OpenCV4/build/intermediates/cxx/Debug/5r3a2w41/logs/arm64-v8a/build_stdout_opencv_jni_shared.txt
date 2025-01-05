@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\achel\OneDrive\Bureau\TrueMood\OpenCV4\.cxx\Debug\5r3a2w41\arm64-v8a'
+ninja: no work to do.
