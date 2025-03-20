@@ -7,6 +7,6 @@ The model training and core logic for emotion recognition are developed in a sep
 
 <br/>
 
-#### Demo 🎬
+### Demo 🎬
 https://github.com/user-attachments/assets/f512b114-23f9-475f-b9dc-67e8e6ce7e23
 
